@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irek\\source\\repos\\lesson12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A19C07C-0A1F-47BE-B418-018574FDEA54}|lesson12.vcxproj|C:\\Users\\irek\\source\\repos\\lesson12\\lesson12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A19C07C-0A1F-47BE-B418-018574FDEA54}|lesson12.vcxproj|solutionrelative:lesson12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A19C07C-0A1F-47BE-B418-018574FDEA54}|lesson12.vcxproj|C:\\Users\\irek\\source\\repos\\lesson12\\sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A19C07C-0A1F-47BE-B418-018574FDEA54}|lesson12.vcxproj|solutionrelative:sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sqlite3.c",
+              "DocumentMoniker": "C:\\Users\\irek\\source\\repos\\lesson12\\sqlite3.c",
+              "RelativeDocumentMoniker": "sqlite3.c",
+              "ToolTip": "C:\\Users\\irek\\source\\repos\\lesson12\\sqlite3.c",
+              "RelativeToolTip": "sqlite3.c",
+              "ViewState": "AgIAAE4XAgAAAAAAAADgv20XAgAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T14:01:27.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesson12.cpp",
+              "DocumentMoniker": "C:\\Users\\irek\\source\\repos\\lesson12\\lesson12.cpp",
+              "RelativeDocumentMoniker": "lesson12.cpp",
+              "ToolTip": "C:\\Users\\irek\\source\\repos\\lesson12\\lesson12.cpp",
+              "RelativeToolTip": "lesson12.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T13:44:23.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
