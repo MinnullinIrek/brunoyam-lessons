@@ -1,0 +1,3 @@
+[submodule "lesson19/network/asio"]
+	path = lesson19/network/asio
+	url = https://github.com/chriskohlhoff/asio.git
